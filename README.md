@@ -78,7 +78,7 @@ Compatibilities:
       - Standard ERC20 tokens
 ```
 
-
+[//]: # (scope-close)
 
 [//]: # (getting-started-open)
 
